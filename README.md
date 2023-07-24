@@ -5,7 +5,7 @@ digital media store, including tables for
 artists, albums, media tracks, invoices
 and customers
 
-This dashboard shows visualizations showing analysis for following:
+This dashboard connects to Chinook data stored in shows visualizations showing analysis for following:
 1. Total sales $
 2. Total sales $ by country – ranked (or at least sorted largest to smallest)
 3. Total sales $ by country, state & city
